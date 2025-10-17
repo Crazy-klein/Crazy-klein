@@ -28,7 +28,7 @@
   
 ---  
   
-### ✦ Qui suis-je ?    
+### ✦ About me ?    
   
 👑 **Cameroonian self-taught** student, passionate about **computer science**, **the cybersphere**, and **bot creation**.
 
