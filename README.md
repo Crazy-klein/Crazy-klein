@@ -4,7 +4,7 @@
   
 <div id="header" align="center">  
   <!-- Logo / Bannière -->  
-  <img src="https://files.catbox.moe/7v6bgx.jpeg" width="400" height="500"/>    
+  <img src="https://files.catbox.moe/iypgnx.jpg" width="400" height="500"/>    
   <br><br>  
 </div>  
    
@@ -31,8 +31,8 @@
 ### ✦ Qui suis-je ?    
   
 👑 Étudiant **camerounais autodidacte**, passionné par **l’informatique**, **la cybersphère** et **la création de bots**.    
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...  
+- 🔭 I’m currently working on projet de **site web** et de **bots**
+- 🌱 I’m currently learning le **HTML** et le **CSS** 
 - 💻 J’explore les univers **du développement web**, **de l’automatisation** et **des intelligences numériques**.    
 - ⚙️ Je façonne mes projets personnels (**Node.js**, **APIs**, **bases de données**, **bots WhatsApp & Telegram**) dans l’ombre.    
   
