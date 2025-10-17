@@ -30,11 +30,15 @@
   
 ### ✦ Qui suis-je ?    
   
-👑 Étudiant **camerounais autodidacte**, passionné par **l’informatique**, **la cybersphère** et **la création de bots**.    
-- 🔭 I’m currently working on projet de **site web** et de **bots**
-- 🌱 I’m currently learning le **HTML** et le **CSS** 
-- 💻 J’explore les univers **du développement web**, **de l’automatisation** et **des intelligences numériques**.    
-- ⚙️ Je façonne mes projets personnels (**Node.js**, **APIs**, **bases de données**, **bots WhatsApp & Telegram**) dans l’ombre.    
+👑 **Cameroonian self-taught** student, passionate about **computer science**, **the cybersphere**, and **bot creation**.
+
+🔭 I’m currently working on **website** and **bot projects**
+
+🌱 I’m currently learning **HTML** and **CSS**
+
+💻 I’m exploring the worlds of **web development**, **automation**, and **digital intelligence**
+
+⚙️ I craft my personal projects (**Node.js**, **APIs**, **databases**, **WhatsApp & Telegram bots**) from the shadows.
   
 ---  
   
@@ -50,8 +54,8 @@
   
 ### 🎯 Objectif    
   
-Forger des **outils numériques puissants et autonomes**,  
-élever la **conscience digitale** sous le nom de :  
+Forging **powerful** and **autonomous digital tools**,
+elevating **digital consciousness** under the name of:  
   
 <h2 align="center">  
 👑 CRAZY-KLEIN 👑  
