@@ -65,7 +65,7 @@ elevating **digital consciousness** under the name of:
   
 <h1 align="center" style="font-family:serif;">  
 ⚜️ Le pouvoir ne signifie rien sans la volonté de le manier.”⚜️  
-<br>— Madara Uchiha  
+<br>
 </h1>  
   
 ---
