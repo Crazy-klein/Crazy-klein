@@ -63,10 +63,10 @@ elevating **digital consciousness** under the name of:
   
 ---  
   
-<h1 align="center" style="font-family:serif;">  
+<h2 align="center" style="font-family:serif;">  
 ⚜️ Le pouvoir ne signifie rien sans la volonté de le manier. ⚜️  
 <br>
-</h1>  
+</h2>  
   
 ---
 
