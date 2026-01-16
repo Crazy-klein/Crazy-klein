@@ -1,4 +1,4 @@
-```markdown
+
 # 🤖 SADNESS-MD - WhatsApp Bot Next-Gen
 
 > Un bot WhatsApp professionnel, stable et performant basé sur Node.js et Baileys
@@ -316,4 +316,3 @@ Contact développeur
     </a>
   </p>
 </div>
-```
