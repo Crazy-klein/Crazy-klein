@@ -1,258 +1,319 @@
-
 ```markdown
-<p align="center">
-  <img src="https://files.catbox.moe/zcg6kh.jpg" alt="SADNESS-MD Banner" width="100%" style="border-radius: 20px; box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3); border: 3px solid #FF3E80;">
-</p>
+# 🤖 SADNESS-MD - WhatsApp Bot Next-Gen
 
-<h1 align="center">
-  <span style="font-family: Georgia, serif; font-style: italic; color: #FF3E80;">🤖</span>
-  <span style="font-family: Georgia, serif; font-style: italic; background: linear-gradient(45deg, #FF3E80, #FFD166, #2E86C1); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">SADNESS-MD</span>
-  <br>
-  <small style="font-family: Georgia, serif; font-style: italic; color: #FFD166; font-size: 1.5rem;">L'Évolution Ultime des Bots WhatsApp</small>
-</h1>
+> Un bot WhatsApp professionnel, stable et performant basé sur Node.js et Baileys
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-3.0.0-FF3E80?style=for-the-badge&logo=starship&logoColor=white" alt="Version">
-  <img src="https://img.shields.io/badge/Node.js-18+-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Status-Active-28a745?style=for-the-badge&logo=check-circle&logoColor=white" alt="Status">
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License">
+  <img src="https://files.catbox.moe/zcg6kh.jpg" alt="SADNESS-MD" width="600" style="border-radius: 10px; border: 1px solid #ddd;">
 </p>
 
-<div align="center">
-  
-  ![Animation](https://readme-typing-svg.demolab.com?font=Georgia+italic&size=30&duration=4000&pause=1000&color=FF3E80&center=true&vCenter=true&width=800&height=80&lines=%F0%9F%9A%80+Performance+Extr%C3%AAme+%2B+Stabilit%C3%A9+Totale;%F0%9F%8E%A8+Design+Moderne+%2B+Animations+Fluides;%F0%9F%92%BB+D%C3%A9ploiement+Instantann%C3%A9+%2B+Gratuit;%F0%9F%94%A5+R%C3%A9volutionnez+Votre+Exp%C3%A9rience+WhatsApp)
-  
-</div>
+## 📋 Table des matières
+- [Présentation](#présentation)
+- [Fonctionnalités](#fonctionnalités)
+- [Prérequis](#prérequis)
+- [Installation](#installation)
+- [Configuration](#configuration)
+- [Déploiement](#déploiement)
+- [Utilisation](#utilisation)
+- [Sécurité](#sécurité)
+- [FAQ](#faq)
+- [Contribuer](#contribuer)
+- [License](#license)
+- [Avertissement](#avertissement)
 
----
+## 🎯 Présentation
 
-## ✨ **Caractéristiques Époustouflantes**
+**SADNESS-MD** est un bot WhatsApp développé avec **Node.js** et la bibliothèque **Baileys**. Conçu pour être stable, performant et facile à maintenir, il offre une solution robuste pour l'automatisation de tâches sur WhatsApp.
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/-⚡_ULTRA_RAPIDE-FF6B8B?style=for-the-badge&logo=speedtest&logoColor=white" alt="Rapide">
-      <br>
-      <sub><em><span style="font-family: Georgia, serif; font-style: italic;">Réponse en 0.2s</span></em></sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/-🎨_DESIGN_MODERNE-2E86C1?style=for-the-badge&logo=materialdesign&logoColor=white" alt="Design">
-      <br>
-      <sub><em><span style="font-family: Georgia, serif; font-style: italic;">Interface Élégante</span></em></sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/-🔒_SÉCURISÉ-28B463?style=for-the-badge&logo=lock&logoColor=white" alt="Sécurisé">
-      <br>
-      <sub><em><span style="font-family: Georgia, serif; font-style: italic;">Protection Maximale</span></em></sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/-🚀_INSTANTANÉ-F39C12?style=for-the-badge&logo=rocket&logoColor=white" alt="Instantané">
-      <br>
-      <sub><em><span style="font-family: Georgia, serif; font-style: italic;">Déploiement 3min</span></em></sub>
-    </td>
-  </tr>
-</table>
+### Caractéristiques principales
+- ✅ **Multi-plateforme** : Fonctionne sur Windows, Linux, macOS
+- ✅ **Session persistante** : Reconnexion automatique
+- ✅ **Modulaire** : Architecture extensible
+- ✅ **Documentation complète** : Guides détaillés inclus
+- ✅ **Communauté active** : Support et mises à jour régulières
 
----
+## ✨ Fonctionnalités
 
-## 🎯 **Pourquoi SADNESS-MD ?**
+### Fonctionnalités de base
+- **Gestion des messages** : Envoi, réception, traitement
+- **Gestion des groupes** : Administration, modération
+- **Commandes personnalisables** : Système de commandes modulaire
+- **Support multi-appareils** : Compatible avec le nouveau protocole WhatsApp
 
-> <span style="font-family: Georgia, serif; font-style: italic; color: #FFD166;">"La fusion parfaite entre puissance brute et élégance numérique"</span>
+### Fonctionnalités avancées
+- **Système de plugins** : Extensions personnalisables
+- **Base de données** : Support MongoDB et SQLite
+- **API REST** : Interface pour intégrations externes
+- **Logging avancé** : Suivi détaillé des activités
+- **Sauvegarde automatique** : Prévention de perte de données
 
-<table>
-  <tr>
-    <td width="60%">
-      <h3 style="font-family: Georgia, serif; font-style: italic; color: #FF3E80;">💫 Innovation Radicale</h3>
-      <ul>
-        <li>🎯 <strong>Session en ligne révolutionnaire</strong> - Plus de scan QR local</li>
-        <li>⚡ <strong>Performance optimisée 300%</strong> - Plus rapide que jamais</li>
-        <li>🔄 <strong>Mises à jour automatiques</strong> - Toujours à la pointe</li>
-        <li>🌙 <strong>Mode sombre natif</strong> - Confort visuel optimal</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://img.shields.io/badge/99.9%25-Disponibilité-00ff88?style=for-the-badge&logo=uptimerobot&logoColor=white" alt="Disponibilité">
-      <br><br>
-      <img src="https://img.shields.io/badge/⚡_0.2s-Réponse-ffaa00?style=for-the-badge&logo=lightning&logoColor=white" alt="Réponse">
-    </td>
-  </tr>
-</table>
+## 📋 Prérequis
 
----
+Avant de commencer, assurez-vous d'avoir :
 
-## 🚀 **Démarrage Express - 3 Minutes Chrono !**
+- **Node.js** version 16 ou supérieure
+- **npm** ou **yarn** pour la gestion des dépendances
+- **Git** pour le contrôle de version
+- **Un compte WhatsApp** actif
+- **Accès terminal/commande** sur votre machine
 
-### **Étape 1 : Générer la Session Magique ✨**
+## 🚀 Installation
 
-<p align="center">
-  <a href="https://sadness-session-id.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🔑_GÉNÉRER_SESSION-FF3E80?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1A1A2E" alt="Générer Session" height="60">
-  </a>
-  <br>
-  <em><span style="font-family: Georgia, serif; font-style: italic;">Pair Code • QR Code • Sécurisé • Instantané</span></em>
-</p>
-
-### **Étape 2 : Déploiement Céleste ☁️**
-
-<p align="center">
-  <a href="https://dashboard.katabump.com/auth/login#483bf6" target="_blank">
-    <img src="https://img.shields.io/badge/☁️_DÉPLOYER_SUR_KATABUMP-2E86C1?style=for-the-badge&logo=cloud&logoColor=white&labelColor=1A1A2E" alt="Déployer" height="60">
-  </a>
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center">✨ <strong>Serveur Gratuit</strong></td>
-    <td align="center">⚡ <strong>Node.js Natif</strong></td>
-    <td align="center">🛡️ <strong>Auto-Scaling</strong></td>
-    <td align="center">🔧 <strong>24/7 Monitoring</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><em>Performant & Illimité</em></td>
-    <td align="center"><em>Optimisé Bots</em></td>
-    <td align="center"><em>Adaptatif</em></td>
-    <td align="center"><em>Stabilité Garantie</em></td>
-  </tr>
-</table>
-
----
-
-## 🏗️ **Architecture Technologique**
-
-<div align="center">
-  
-```mermaid
-graph LR
-    A[📱 WhatsApp Web] --> B[⚡ Baileys MD]
-    B --> C[🚀 Node.js 18+]
-    C --> D[💾 MongoDB/Redis]
-    C --> E[🌐 Express API]
-    E --> F[🎨 Interface Web]
-    F --> G[📊 Dashboard Admin]
-    
-    style A fill:#25D366
-    style B fill:#FF3E80
-    style C fill:#339933
-    style D fill:#47A248
-    style E fill:#000000
-    style F fill:#2E86C1
-    style G fill:#FFD166
+### 1. Cloner le dépôt
+```bash
+git clone https://github.com/yourusername/sadness-md.git
+cd sadness-md
 ```
 
-</div>
+2. Installer les dépendances
 
-Stack Technique Élite
+```bash
+npm install
+# ou
+yarn install
+```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Baileys_MD-FF3E80?style=for-the-badge&logo=javascript&logoColor=white" alt="Baileys">
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-  <img src="https://img.shields.io/badge/ESM_Modules-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="ESM">
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO">
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSocket">
-</p>
+3. Configuration initiale
+
+```bash
+cp config.example.json config.json
+# Éditez config.json avec vos paramètres
+```
+
+⚙️ Configuration
+
+Fichier de configuration principal (config.json)
+
+```json
+{
+  "sessionName": "session",
+  "ownerNumber": "1234567890@s.whatsapp.net",
+  "ownerName": "VotreNom",
+  "botName": "SADNESS-MD",
+  
+  "mongooseConnectionString": "mongodb://localhost:27017/sadness-md",
+  
+  "maxUploadSize": 100,
+  "messageLimit": 100,
+  
+  "timezone": "Africa/Casablanca",
+  "language": "fr",
+  
+  "autoRead": false,
+  "alwaysOnline": true,
+  
+  "multiDevice": true,
+  "pairingCode": false
+}
+```
+
+Variables d'environnement (optionnel)
+
+```bash
+export SESSION_NAME="your_session"
+export MONGODB_URI="your_mongodb_uri"
+export PORT=3000
+```
+
+☁️ Déploiement
+
+Option 1 : Déploiement sur VPS/Dédié
+
+```bash
+# 1. Mettre à jour le système
+sudo apt update && sudo apt upgrade -y
+
+# 2. Installer Node.js
+curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+sudo apt install -y nodejs
+
+# 3. Installer PM2 pour la gestion des processus
+npm install -g pm2
+
+# 4. Démarrer le bot
+pm2 start index.js --name "sadness-md"
+pm2 save
+pm2 startup
+```
+
+Option 2 : Déploiement avec Docker
+
+```bash
+# Construire l'image
+docker build -t sadness-md .
+
+# Lancer le conteneur
+docker run -d \
+  --name sadness-md \
+  -p 3000:3000 \
+  -v $(pwd)/session:/app/session \
+  sadness-md
+```
+
+Option 3 : Plateformes cloud recommandées
+
+· Heroku : Guide de déploiement
+· Railway : Guide de déploiement
+· Replit : Guide de déploiement
+
+📱 Utilisation
+
+Démarrer le bot
+
+```bash
+npm start
+# ou
+node index.js
+```
+
+Commandes de base
+
+```
+!help - Affiche l'aide
+!ping - Test de réponse
+!status - Statut du bot
+!restart - Redémarre le bot
+!backup - Sauvegarde des données
+```
+
+Structure des dossiers
+
+```
+sadness-md/
+├── src/
+│   ├── commands/     # Commandes du bot
+│   ├── plugins/      # Plugins additionnels
+│   ├── libs/         # Bibliothèques internes
+│   └── database/     # Gestion de la base de données
+├── session/          # Sessions WhatsApp
+├── config.json       # Configuration
+├── index.js          Point d'entrée
+└── package.json      Dépendances
+```
+
+🔒 Sécurité
+
+Bonnes pratiques recommandées
+
+1. Ne jamais partager votre fichier de session
+2. Utiliser des variables d'environnement pour les données sensibles
+3. Mettre à jour régulièrement les dépendances
+4. Restreindre les permissions sur les fichiers de configuration
+5. Activer l'authentification pour l'API si exposée publiquement
+
+Configuration de sécurité recommandée
+
+```json
+{
+  "security": {
+    "allowedNumbers": ["1234567890@s.whatsapp.net"],
+    "blockedNumbers": [],
+    "maxFileSize": 50,
+    "antivirusScan": true,
+    "rateLimit": {
+      "windowMs": 60000,
+      "max": 30
+    }
+  }
+}
+```
+
+❓ FAQ
+
+Questions fréquentes
+
+Q : Le bot peut-il être banni par WhatsApp ?
+R : Tout usage automatisé de WhatsApp viole leurs conditions d'utilisation. Utilisez à vos risques et avec modération.
+
+Q : Comment résoudre les problèmes de connexion ?
+R : Consultez le guide de dépannage
+
+Q : Puis-je ajouter mes propres commandes ?
+R : Oui, consultez le guide de développement
+
+Q : Le bot supporte-t-il les groupes ?
+R : Oui, avec des fonctionnalités de modération et d'administration.
+
+🤝 Contribuer
+
+Les contributions sont les bienvenues ! Veuillez suivre ces étapes :
+
+1. Fork le projet
+2. Créer une branche (git checkout -b feature/AmazingFeature)
+3. Commit vos changements (git commit -m 'Add some AmazingFeature')
+4. Push vers la branche (git push origin feature/AmazingFeature)
+5. Ouvrir une Pull Request
+
+Standards de code
+
+· Utiliser ESLint avec la configuration fournie
+· Écrire des tests pour les nouvelles fonctionnalités
+· Documenter les nouvelles API et commandes
+· Suivre la convention de commits conventionnels
+
+📄 License
+
+Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
+
+⚠️ Avertissement
+
+Ce projet n'est pas affilié, associé, autorisé, approuvé par WhatsApp ou toute de ses filiales. WhatsApp est une marque déposée de Meta Platforms, Inc.
+
+Responsabilités
+
+· Ce bot est fourni à des fins éducatives uniquement
+· L'utilisateur est seul responsable de son utilisation
+· Respectez les conditions d'utilisation de WhatsApp
+· Ne pas utiliser pour le spam ou activités malveillantes
+
+Limitations
+
+· Pas de support pour les appels vocaux/vidéo
+· Pas de garantie de stabilité à 100%
+· Dépend de l'API WhatsApp Web qui peut changer sans préavis
+
+📞 Support
+
+Documentation
+
+· Documentation complète
+· Guide d'installation détaillé
+· Liste des commandes
+
+Communauté
+
+· Groupe WhatsApp - Support communautaire
+· GitHub Issues - Rapports de bugs
+· Discussions GitHub - Questions générales
+
+Contact développeur
+
+· Email : dev@example.com
+· Telegram : @yourusername
+· Site web : https://yourwebsite.com
 
 ---
-
-📊 Fonctionnalités Avancées
-
-<details>
-<summary><strong>🎭 <span style="font-family: Georgia, serif; font-style: italic;">Voir toutes les fonctionnalités magiques</span></strong></summary>
-
-🤖 Intelligence Artificielle
-
-· 🧠 GPT-4 Integration - Conversations naturelles
-· 🎯 Auto-Learning - S'adapte à votre style
-· 📚 Base de Connaissances - Mémoire persistante
-
-🛡️ Sécurité Renforcée
-
-· 🔐 Chiffrement E2E - Messages protégés
-· 🚫 Anti-Spam - Détection intelligente
-· 👁️ Logs d'Activité - Surveillance complète
-
-🎨 Personnalisation
-
-· 🎨 Thèmes Dynamiques - Changez l'apparence
-· ⚙️ Plugins Modulaires - Extensions faciles
-· 📱 Interface Responsive - Mobile & Desktop
-
-⚡ Performance
-
-· 🚀 Cache Multi-niveau - Rapidité extrême
-· 🔄 Load Balancing - Distribution intelligente
-· 💾 Optimisation Mémoire - Usage minimal
-
-</details>
-
----
-
-🌐 Communauté Vibrante
-
-<p align="center">
-  <a href="https://whatsapp.com/channel/0029VbCMzVZKWEKvtoE9Jk43" target="_blank">
-    <img src="https://img.shields.io/badge/💬_WHATSAPP_CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="50">
-  </a>
-  <a href="https://t.me/kurona_tech_channel" target="_blank">
-    <img src="https://img.shields.io/badge/📡_TELEGRAM_CHANNEL-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="50">
-  </a>
-  <a href="https://discord.gg/example" target="_blank">
-    <img src="https://img.shields.io/badge/👾_DISCORD_COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="50">
-  </a>
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center">🎁 <strong>Codes Promo</strong></td>
-    <td align="center">💡 <strong>Tutoriels</strong></td>
-    <td align="center">🚀 <strong>Updates</strong></td>
-    <td align="center">🤝 <strong>Support</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><em>Offres exclusives</em></td>
-    <td align="center"><em>Guides détaillés</em></td>
-    <td align="center"><em>En avant-première</em></td>
-    <td align="center"><em>24/7 réactif</em></td>
-  </tr>
-</table>
-
----
-
-⚠️ Avertissement Légal
-
-<span style="font-family: Georgia, serif; font-style: italic; color: #FF6B8B;">Important : Ce projet est à but éducatif uniquement.</span>
 
 <div align="center">
+  <p>
+    <strong>Dernière mise à jour :</strong> Janvier 2024<br>
+    <strong>Version :</strong> 2.0.0<br>
+    <strong>Mainteneur :</strong> CRAZY KLEIN TECH
+  </p>
 
-❗ Obligation 📜 Règle ⚖️ Conséquence
-Respect Conditions WhatsApp Suspension possible
-Usage Éducatif uniquement Responsabilité utilisateur
-Éthique Bonne foi Nécessaire
-
+  <p>
+    <a href="https://github.com/yourusername/sadness-md/stargazers">
+      <img src="https://img.shields.io/github/stars/yourusername/sadness-md" alt="Stars">
+    </a>
+    <a href="https://github.com/yourusername/sadness-md/network/members">
+      <img src="https://img.shields.io/github/forks/yourusername/sadness-md" alt="Forks">
+    </a>
+    <a href="https://github.com/yourusername/sadness-md/issues">
+      <img src="https://img.shields.io/github/issues/yourusername/sadness-md" alt="Issues">
+    </a>
+    <a href="https://github.com/yourusername/sadness-md/blob/master/LICENSE">
+      <img src="https://img.shields.io/github/license/yourusername/sadness-md" alt="License">
+    </a>
+  </p>
 </div>
-
-<p align="center">
-  <em>L'auteur décline toute responsabilité concernant une mauvaise utilisation.</em>
-</p>
-
----
-
-👑 Créateur Visionnaire
-
-<p align="center">
-  <strong style="font-family: Georgia, serif; font-style: italic; font-size: 1.5rem; color: #FFD166;">CRAZY KLEIN TECH</strong>
-  <br>
-  <em>Architecte de l'Innovation • Pionnier des Bots Next-Gen</em>
-</p>
-
-<div align="center">
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/👑_PORTFOLIO-FF3E80?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40">
-  </a>
-  <a href="https://t.me/kurona_tech_channel" target="_blank">
-    <img src="https://img.shields.io/badge/💎_TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="40">
-  </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/🐦_TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="40">
-  </a>
-</div>
+```
