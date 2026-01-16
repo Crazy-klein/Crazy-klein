@@ -1,92 +1,86 @@
-<p align="center">
-  <img src="https://files.catbox.moe/zcg6kh.jpg" alt="SADNESS-MD - Bot WhatsApp" width="100%" style="border-radius: 12px; border: 2px solid #e0e0e0;">
-</p>
+<h1 align="center">  
+ 👑 CRAZY-KLEIN 👑    
+</h1>  
+  
+<div id="header" align="center">  
+  <!-- Logo / Bannière -->  
+  <img src="https://files.catbox.moe/iypgnx.jpg" width="400" height="500"/>    
+  <br><br>  
+</div>  
+   
+<!-- Compteur de vues + Stats -->  
+<div align="center">  
+  <img src="https://komarev.com/ghpvc/?username=Crazy-klein&style=flat-square&color=blue" alt=""/>  
+  <br>  
+  <img src="https://github-readme-stats.vercel.app/api?username=Crazy-klein&show_icons=true&theme=radical" alt="Crazy-Klein Stats"/>  
+</div>  
+  
+<h1 align="center">  
+ 👑 HEY BRUHH    
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  
+ <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="30px"/>  
+ 👑  
+</h1>  
+  
+<div align="center">  
+   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>  
+</div>  
+  
+---  
+  
+### ✦ About me ?    
+  
+👑 **Cameroonian self-taught** student, passionate about **computer science**, **the cybersphere**, and **bot creation**.
 
-<h1 align="center">
-  <span style="font-family: Georgia, 'Times New Roman', serif; font-style: italic; color: #2c3e50;">SADNESS-MD</span>
-</h1>
-<p align="center" style="font-family: Georgia, 'Times New Roman', serif; font-style: italic; color: #7f8c8d; font-size: 1.2rem;">
-  Une solution robuste et modulaire pour l'automatisation WhatsApp
-</p>
+🔭 I’m currently working on **website** and **bot projects**
 
-<p align="center">
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-18.x%2B-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-  </a>
-  <a href="https://github.com/adiwajshing/Baileys" target="_blank">
-    <img src="https://img.shields.io/badge/Baileys_MD-Latest-FF6B6B?style=flat-square&logo=github&logoColor=white" alt="Baileys MD">
-  </a>
-  <a href="LICENSE" target="_blank">
-    <img src="https://img.shields.io/badge/License-MIT-3D7BBA?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="License">
-  </a>
-  <a href="https://github.com/KleinDev91/SADNESS-MD/issues" target="_blank">
-    <img src="https://img.shields.io/github/issues/KleinDev91/SADNESS-MD?style=flat-square&logo=github&color=2E86C1" alt="Issues">
-  </a>
-</p>
+🌱 I’m currently learning **HTML** and **CSS**
 
-<p align="center">
-  <a href="#fonctionnalités">Fonctionnalités</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#configuration">Configuration</a> •
-  <a href="#documentation">Documentation</a> •
-  <a href="#contribuer">Contribuer</a>
-</p>
+💻 I’m exploring the worlds of **web development**, **automation**, and **digital intelligence**
 
+⚙️ I craft my personal projects (**Node.js**, **APIs**, **databases**, **WhatsApp & Telegram bots**) from the shadows.
+  
+---  
+  
+### 🔥 Skills & Technologies    
+  
+<div align="center">  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;  
+</div>  
+  
+---  
+  
+### 🎯 Objectif    
+  
+Forging **powerful** and **autonomous digital tools**,
+elevating **digital consciousness** under the name of:  
+  
+<h2 align="center">  
+👑 CRAZY-KLEIN 👑  
+</h2>  
+  
+---  
+  
+<h1 align="center" style="font-family:serif;">  
+⚜️ Le pouvoir ne signifie rien sans la volonté de le manier.”⚜️  
+<br>
+</h1>  
+  
 ---
 
-## 📋 Présentation
+<!--
+**Crazy-klein/Crazy-klein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-**SADNESS-MD** est un framework pour bot WhatsApp, construit sur **Baileys**, conçu pour être stable, modulaire et facile à maintenir. Il est destiné aux développeurs souhaitant créer des systèmes d'automatisation, d'assistance ou d'interaction via WhatsApp, avec une architecture claire et extensible.
+Here are some ideas to get you started:
 
-> **Note :** Ce projet est à but éducatif et technique. L'utilisateur est seul responsable de son utilisation et doit se conformer aux Conditions d'Utilisation de WhatsApp.
-
----
-
-## ✨ Fonctionnalités
-
-**Fonctions principales :**
-- 🧩 **Architecture Modulaire** : Commandes et fonctionnalités séparées en modules.
-- 🔌 **Support Multi-appareils (MD)** : Utilisation de la connexion multi-appareils officielle.
-- 📦 **Gestionnaire de plugins** : Ajout ou retrait de fonctions sans modifier le cœur du projet.
-- 🛡️ **Système de sécurité basique** : Filtrage de requêtes et gestion des permissions.
-- 💾 **Support de bases de données** : Exemples fournis pour MongoDB et systèmes basés sur JSON.
-
-**Fonctions techniques :**
-- ✅ Connexion par QR Code ou Pair Code.
-- 🖥️ Interface de monitoring Web optionnelle (via `dashboard.js`).
-- 🔄 Gestion propre des erreurs et reconnections.
-- 📝 Logging structuré pour le débogage.
-
----
-
-## 🚀 Installation et Démarrage
-
-### Prérequis
-- [Node.js](https://nodejs.org/) (version 18 ou supérieure)
-- [Git](https://git-scm.com/)
-- Un compte WhatsApp
-- Un terminal (Bash, PowerShell, etc.)
-
-### Étapes d'installation
-
-```bash
-# 1. Clonez le dépôt
-git clone https://github.com/KleinDev91/SADNESS-MD.git
-
-# 2. Accédez au dossier du projet
-cd SADNESS-MD
-
-# 3. Installez les dépendances
-npm install
-
-# 4. Configurez votre environnement
-# Copiez le fichier d'exemple de configuration
-cp config.example.json config.json
-
-# 5. Éditez le fichier config.json avec vos préférences
-# (Voir section Configuration ci-dessous)
-
-# 6. Lancez le bot
-npm start
-# ou
-node index.js
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
